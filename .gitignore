@@ -3,7 +3,7 @@ logs
 model
 reports
 models
-
+S3
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
